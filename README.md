@@ -4,5 +4,3 @@
    And with that information would then create a playlist based on that choice of genre. However, genre is not tied to any of the music in the database so now I can't do shit
    smfh.
    So instead I'm making a program that will let you input popular artists and create 10 song playlist based on those artists. Since they hate me so much.
-
-2) 
